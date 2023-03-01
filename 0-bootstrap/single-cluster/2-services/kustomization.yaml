@@ -1,5 +1,5 @@
 resources:
-# - argocd/operators/ibm-cp4ba-baw-operator.yaml
+- argocd/operators/ibm-cp4ba-baw-operator.yaml
 # - argocd/instances/ibm-cp4ba-baw.yaml
 
 patches:
